@@ -1,0 +1,16 @@
+{
+  "name": "festivalmusica_inicio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sass --watch src/scss:build/css"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "sass": "^1.65.1"
+  }
+}
